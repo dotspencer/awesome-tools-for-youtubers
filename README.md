@@ -1,95 +1,75 @@
 # Awesome Tools for YouTubers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tools and resources for YouTubers — for planning, creating, optimizing, and growing your channel.
+A curated list of tools and resources for YouTubers — for creating, optimizing, and growing your channel.
 
 ---
 
 ## Contents
 
-- [Thumbnails & Titles](#thumbnails--titles)
+- [Thumbnails](#thumbnails)
 - [Video Editing](#video-editing)
-- [SEO & Optimization](#seo--optimization)
-- [Analytics & Insights](#analytics--insights)
-- [Captions & Subtitles](#captions--subtitles)
-- [Content Planning](#content-planning)
+- [Analytics](#analytics)
 - [Live Streaming](#live-streaming)
 - [Audio Tools](#audio-tools)
-- [Monetization](#monetization)
-- [Productivity](#productivity)
-- [Communities & Learning](#communities--learning)
+- [SEO & Optimization](#seo--optimization)
+- [Learning](#learning)
+- [Books](#books)
 
 ---
 
-## Thumbnails & Titles
+## Thumbnails
 
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) – Pro-level photo editing software. One-time purchase.
 - [Canva](https://www.canva.com/) – Easy drag-and-drop graphic design for custom thumbnails.
-- [Thumbsup.tv](https://www.thumbsup.tv/) – A/B testing thumbnails using real user impressions.
-- [TitleThumb](https://titlethumb.com/) – Instantly preview your YouTube titles and thumbnails on desktop, mobile, and TV.
+- [Gimp](https://www.gimp.org/) – Free and open-source image editor.
+- [TitleThumb](https://titlethumb.com/) – Instant preview for your YouTube titles and thumbnails.
 
 ## Video Editing
 
+- [Descript](https://www.descript.com/) – Edit video like a doc and auto-generate captions.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – Professional-level video editing, free tier available.
 - [CapCut](https://www.capcut.com/) – Simple mobile-first video editor with auto captions.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) – Industry-standard editing software.
+
+## Analytics
+
+- [Viewstats](https://viewstats.io/) – Creator analytics and insights.
+- [SocialBlade](https://socialblade.com/) – Track channel stats and compare with others.
+
+## Live Streaming
+
+- [OBS Studio](https://obsproject.com/) – Free, open-source live streaming and recording.
+
+## Audio Tools
+
+- [Audacity](https://www.audacityteam.org/) – Free audio editing and cleanup.
+- [Adobe Podcast Enhance Speech](https://podcast.adobe.com/en/enhance) - Free AI powered speech enhancement for audio.
 
 ## SEO & Optimization
 
 - [TubeBuddy](https://www.tubebuddy.com/) – Browser extension for keyword research, A/B testing, and SEO.
 - [VidIQ](https://vidiq.com/) – Similar to TubeBuddy, with video scorecards and daily ideas.
-- [KeywordTool.io](https://keywordtool.io/youtube) – Helps find high-traffic keywords.
 
-## Analytics & Insights
+## Learning
 
-- [YouTube Studio](https://studio.youtube.com/) – Native analytics for engagement, traffic, and retention.
-- [SocialBlade](https://socialblade.com/) – Track channel stats and compare with others.
-- [Noxinfluencer](https://www.noxinfluencer.com/) – Influencer metrics and brand deal estimates.
+- [Dave Whipple](https://www.youtube.com/@davewhipplevideo) - Blue collar advice for YouTube success.
+- [Ed Lawrence](https://www.youtube.com/@ed-lawrence) - Helping entrepreneurs grow YouTube channels that generate sales.
+- [Paddy Galloway](https://www.youtube.com/@paddygalloway8780) - Creator breakdowns, algorithm tips, tutorials and more.
 
-## Captions & Subtitles
+## Books
 
-- [Descript](https://www.descript.com/) – Edit video like a doc and auto-generate captions.
-- [Rev](https://www.rev.com/) – Human-transcribed captions and subtitles.
-- [YouTube Auto-Captions](https://support.google.com/youtube/answer/6373554) – Built-in but sometimes needs cleanup.
-
-## Content Planning
-
-- [Notion](https://www.notion.so/) – Great for content calendars and idea lists.
-- [Trello](https://trello.com/) – Visual planning board for video ideas and production stages.
-- [Airtable](https://airtable.com/) – Spreadsheet-database hybrid for managing scripts and schedules.
-
-## Live Streaming
-
-- [OBS Studio](https://obsproject.com/) – Free, open-source live streaming and recording.
-- [Streamlabs](https://streamlabs.com/) – OBS variant with overlays and monetization features.
-- [Ecamm Live](https://www.ecamm.com/mac/ecammlive/) – Mac-only, polished streaming software.
-
-## Audio Tools
-
-- [Audacity](https://www.audacityteam.org/) – Free audio editing and cleanup.
-- [Krisp](https://krisp.ai/) – AI-powered noise cancellation for mics.
-- [Epidemic Sound](https://www.epidemicsound.com/) – Royalty-free music and sound effects.
-
-## Monetization
-
-- [Ko-fi](https://ko-fi.com/) – Simple tipping page for creators.
-- [Buy Me a Coffee](https://www.buymeacoffee.com/) – Another lightweight supporter platform.
-- [Patreon](https://www.patreon.com/) – Full-featured membership system for creators.
-
-## Communities & Learning
-
-- [r/YouTubers](https://www.reddit.com/r/NewTubers/) – A subreddit for new creators on YouTube.
-- [r/PartneredYoutube](https://www.reddit.com/r/PartneredYoutube/) – A subreddit for creators in the YouTube Partner Program.
-- [YouTube Creator Academy](https://creatoracademy.youtube.com/) – Official learning hub from YouTube.
-- [Creator Insider](https://www.youtube.com/c/CreatorInsider) – YouTube staff channel sharing platform updates.
+- [The YouTube Formula](https://amzn.to/4nvgiQp) - How Anyone Can Unlock the Algorithm to Drive Views, Build an Audience, and Grow Revenue
+- [YouTube Secrets](https://amzn.to/4kmGBp8) - The Ultimate Guide to Growing Your Following and Making Money as a Video Influencer
 
 ---
 
 ## Contributing
 
-Contributions welcome! Please follow the [awesome-list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
+Contributions welcome!
 
-1. Open an issue or pull request
+1. Open a pull request
 2. Keep descriptions concise and useful
-3. Avoid dead or low-quality links
+3. No dead or low-quality links
 
 ---
 
