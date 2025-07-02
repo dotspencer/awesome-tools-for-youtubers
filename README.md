@@ -1,6 +1,6 @@
-# Awesome Tools for YouTubers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![awesome-tools-for-youtubers-bannerafphoto](https://github.com/user-attachments/assets/7931ceb6-272f-4ece-a578-16058a5eea7c)
 
-A curated list of tools and resources for YouTubers — for creating, optimizing, and growing your channel.
+A curated list of tools and resources for YouTubers — for creating, optimizing, and growing your channel. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ---
 
