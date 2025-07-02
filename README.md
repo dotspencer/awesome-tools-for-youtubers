@@ -63,15 +63,7 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 
 ---
 
-## Contributing
-
-Contributions welcome!
-
-1. Open a pull request
-2. Keep descriptions concise and useful
-3. No dead or low-quality links
-
----
+Contributions welcome! Please read the [contribution guidelines](contributing.md).
 
 ## License
 
