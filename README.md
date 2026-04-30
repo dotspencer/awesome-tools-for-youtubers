@@ -12,6 +12,7 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 - [Live Streaming](#live-streaming)
 - [Audio Tools](#audio-tools)
 - [SEO & Optimization](#seo--optimization)
+- [Download Tools](#download-tools)
 - [Learning](#learning)
 - [Books](#books)
 
@@ -49,6 +50,10 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 
 - [TubeBuddy](https://www.tubebuddy.com/) – Browser extension for keyword research, A/B testing, and SEO.
 - [VidIQ](https://vidiq.com/) – Similar to TubeBuddy, with video scorecards and daily ideas.
+
+## Download Tools
+
+- [Cyber Collector](https://t.me/cybercollectorbot) – Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Learning
 
