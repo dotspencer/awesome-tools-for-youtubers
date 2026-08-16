@@ -27,6 +27,7 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 ## Video Editing
 
 - [Descript](https://www.descript.com/) – Edit video like a doc and auto-generate captions.
+- [videos.social](https://videos.social/?utm_source=dotspencer-awesome-tools-for-youtubers&utm_medium=directory&utm_campaign=listing-wave-d) – Turn blogs, PDFs, and prompts into editable faceless videos. 1 free render.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – Professional-level video editing, free tier available.
 - [CapCut](https://www.capcut.com/) – Simple mobile-first video editor with auto captions.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) – Industry-standard editing software.
