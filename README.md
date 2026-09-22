@@ -31,6 +31,8 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 - [CapCut](https://www.capcut.com/) – Simple mobile-first video editor with auto captions.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) – Industry-standard editing software.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) – Free, open-source CLI and MCP toolkit for coding-agent video editing from editable plan.json timelines; install from source.
+
 ## Analytics
 
 - [Viewstats](https://viewstats.io/) – Creator analytics and insights.
