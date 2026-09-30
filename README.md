@@ -29,6 +29,7 @@ A curated list of tools and resources for YouTubers — for creating, optimizing
 - [Descript](https://www.descript.com/) – Edit video like a doc and auto-generate captions.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – Professional-level video editing, free tier available.
 - [CapCut](https://www.capcut.com/) – Simple mobile-first video editor with auto captions.
+- [ReelWorkshop](https://reelworkshop.com/) – Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) – Industry-standard editing software.
 
 ## Analytics
